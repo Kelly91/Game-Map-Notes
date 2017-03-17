@@ -1,0 +1,7 @@
+Things I want it to do:
+  - make a new game profile
+  - import one or more maps for that game
+  - put a pin in the map
+    - different color options? Or shapes?
+  - optionally attach a note to that pin
+  - Make notes that are not tied to a location
